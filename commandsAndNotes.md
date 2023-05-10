@@ -194,6 +194,7 @@ install docker => curl -fsSL https://get.docker.com -o get-docker.sh
 -ls
 -sh get-docker.sh
 install docker compose, go to docker docs
-docker-compose -v ==>
+docker-compose -v ==> out put version
+pull code from github
 
 <!-- last viewed 3:57 -->
