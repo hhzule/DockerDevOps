@@ -9,6 +9,7 @@ services:
       
   node-app:
     build: .
+    image: <userName>/<dockerRepo>
     # ports:
     #   - "3000:3000"
     # volumes:
